@@ -6,6 +6,10 @@ main:
     url: /
   - title: "Participate"
     url: /participate/
+  - title: "Conduct"
+    url: /conduct/
+  - title: "Registration"
+    url: /registration/
   - title: "Organisers"
     url: /organisers/
   - title: "Portfolio"
