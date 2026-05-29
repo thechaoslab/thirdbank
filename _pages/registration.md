@@ -5,8 +5,6 @@ permalink: /registration/
 author_profile: false
 ---
 
-Participants must be registered for either the full NIME Conference or as a one-day Workshop Day registrant. Both registrations include access to the full workshop day, coffee and snack breaks, and the Opening Reception after workshops conclude at 5pm. Please note that lunch is not included on the Workshop Day; we will organise our own outing or picnic lunch outside, weather depending. More information on registering for the NIME Conference can be found here: [[NIME Registration]](https://nime2026.org/registration/)
-
 After registering for NIME, register your participation for in the Workshop via this form:
 
 <!-- <button class="btn btn--primary btn--block">[Workshop Registration](https://forms.cloud.microsoft/e/QCuyyZvVqx)</button>
@@ -17,3 +15,8 @@ After registering for NIME, register your participation for in the Workshop via 
   <button class="btn--block">Workshop Registration</button>
 </a>
 
+We encourage all participants to familiarise themselves with our [[Code of Conduct]](https://thechaoslab.github.io/thirdbank/conduct/) prior to participation.
+
+<b>Participants must be registered for either the full NIME Conference or as a one-day Workshop Day registrant.</b> Both registrations include access to the full workshop day, coffee and snack breaks, and the Opening Reception on June 23. Please note that lunch is not included on the Workshop Day; we will organise our own outing or picnic lunch outside, weather depending.
+
+More information on registering for the NIME Conference can be found here: [[NIME Registration]](https://nime2026.org/registration/)

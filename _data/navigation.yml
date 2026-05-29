@@ -12,6 +12,8 @@ main:
     url: /registration/
   - title: "Organisers"
     url: /organisers/
+  - title: "Contact"
+    url: /contact/
   - title: "Portfolio"
     url: /portfolio/
   # - title: "Sample Collections"
