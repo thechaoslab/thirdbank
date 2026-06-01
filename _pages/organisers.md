@@ -65,6 +65,6 @@ We are a team of artists, musicians, researchers, academics, technicians, bioaco
         Courtney is a Lecturer (Assistant Professor) working between the Institutes for Digital Technologies and Creative Futures at Loughborough London. Her work explores how bodies and subjective embodied experiences are honoured, conceptualised, and collaborated with in music performance. She is interested in meaning-making processes when working with ambiguity, metaphor, and non-dualism in digital musical instrument design.
     </div>
     <div class="column">
-         <p><img src="/assets/images/pic-court.JPG" width="300"></p>
+         <p><img src="https://github.com/thechaoslab/thirdbank/blob/main/assets/images/pic-court.JPG" width="300"></p>
     </div>
 </div>
