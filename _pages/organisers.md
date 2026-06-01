@@ -43,7 +43,7 @@ We are a team of artists, musicians, researchers, academics, technicians, bioaco
         Karina is a creative technologist and intrepid sonic adventurer. Her practice explores hearing loss and concepts of isolation and connection via DIY super-sensory devices.
     </div>
     <div class="column">
-         <p><img src="/assets/images/pic-empty.JPG" width="300"></p>
+         <p><img src="/assets/images/pic-karina.jpg" width="300"></p>
     </div>
 </div>
 
