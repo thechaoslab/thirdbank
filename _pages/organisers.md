@@ -19,11 +19,11 @@ We are a team of artists, musicians, researchers, academics, technicians, bioaco
 
 <div class="container">
     <div class="column">
-        <h3>Luiz Ribeiro Fonseca (he/him)</h3>
+        <h3>Luiz Ribeiro Fonseca (he/him) <a href ="https://www.lborolondon.ac.uk/staff/doctoral-researchers/luiz-ribeiro-fonseca/">🔗</a> <a href ="https://www.techne.ac.uk/our-students/techne-students-list/2025/luiz-claudio-ribeiro-sales-fonseca/">🔗</a></h3> 
         Luiz is a doctoral researcher at the Institute for Creative Futures - Loughborough University London and a Techne Doctoral Training Partnership scholarship holder. He investigates sonic practices in Brazilian ecological activism, questioning how sound making can intertwine climate collapse with colonialist, capitalist, and techno-scientific ideals.
     </div>
     <div class="column">
-         <p><img src="/assets/images/pic-empty.JPG" width="300"></p>
+         <p><img src="/assets/images/pic-luiz.jpg" width="300"></p>
     </div>
 </div>
 
@@ -53,7 +53,7 @@ We are a team of artists, musicians, researchers, academics, technicians, bioaco
         Inês is a Postdoctoral Researcher at Earth Species Project, working in computational bioacoustics and animal communication. Her research focuses on developing machine learning methods to improve conservation efforts and biodiversity monitoring and understand how animals communicate. In doing so, she aims to foster greater empathy and acceptance towards other life forms.
     </div>
     <div class="column">
-         <p><img src="{{ site.baseurl }}/assets/images/pic-empty.JPG" width="300"></p>
+         <p><img src="/assets/images/pic-empty.JPG" width="300"></p>
     </div>
 </div>
 
