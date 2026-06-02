@@ -49,11 +49,11 @@ We are a team of artists, musicians, researchers, academics, technicians, bioaco
 
 <div class="container">
     <div class="column">
-        <h3>Inês Nolasco (she/her)</h3>
+        <h3>Inês Nolasco (she/her) <a href ="https://inesnolas.github.io/inesnolas/">🔗</a></h3>
         Inês is a Postdoctoral Researcher at Earth Species Project, working in computational bioacoustics and animal communication. Her research focuses on developing machine learning methods to improve conservation efforts and biodiversity monitoring and understand how animals communicate. In doing so, she aims to foster greater empathy and acceptance towards other life forms.
     </div>
     <div class="column">
-         <p><img src="https://thechaoslab.github.io/thirdbank/assets/images/pic-empty.JPG" width="300"></p>
+         <p><img src="https://thechaoslab.github.io/thirdbank/assets/images/pic-ines.jpg" width="300"></p>
     </div>
 </div>
 
