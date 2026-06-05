@@ -31,7 +31,7 @@ The workshop is split into two three-hour sections, with a one-hour lunch break 
 River Lea and the Lee Navigation, and a sound walk through its banks.
 - In the second part of the workshop, participants will form small groups for in-depth engagement with experiences along the canal. After, we will discuss each groups’ creations, as well as possible outcomes and ways of collectively sharing the work.
 
-<b> A full schedule will appear here soon. </b>
+<b> A detailed schedule can be found here: [[Schedule]](https://thechaoslab.github.io/thirdbank/schedule/) </b>
 
 
 <h2>Accessibility</h2>
