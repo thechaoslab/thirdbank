@@ -6,6 +6,68 @@ author_profile: false
 
 ---
 
+<br>
+<table border="0" cellpadding="5" cellspacing="0" style="width:100%">
+  <thead>
+    <tr>
+      <th>Section</th>
+      <th>Activity</th>
+      <th>Duration (min)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">Part I (3 hrs)</td>
+      <td>Opening</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Organiser Introductions</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Participant Introductions</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Break &amp; Transition</td>
+      <td>10</td>
+    </tr>
+    <tr style="background-color: #a8c48c;">
+      <td>Instructions</td>
+      <td>10</td>
+    </tr>    
+    <tr style="background-color: #a8c48c;">
+      <td>Sound walk &amp; Listening Exercises</td>
+      <td>90</td>
+    </tr>
+    <tr style="background-color: #a8c48c;">
+      <td>Group Discussion</td>
+      <td>30</td>
+    </tr>    
+    <tr>
+      <td></td>
+      <td><strong>Lunch</strong></td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td rowspan="3">Part II (3.5 hrs)</td>
+      <td style="background-color: #a8c48c;">Small Group Theme Explorations</td>
+      <td style="background-color: #a8c48c;">110</td>
+    </tr>
+    <tr>
+      <td>Break &amp; Transition</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Discussion &amp; Closing</td>
+      <td>60</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Proposed schedule for the workshop. Activities taking place outside are marked in green.</em></p>
+
 The full-day workshop (09:00-17:00) workshop is divided into two halves:
 
 <b>First Half</b> (3 hours, 09:00-12:00)
@@ -15,18 +77,18 @@ The full-day workshop (09:00-17:00) workshop is divided into two halves:
 
 <b>Lunch Break</b> (1.5 hours, 12:00-13:30)
 
-<b>Second Half</b> (3 hours, 13:30-17:00)
+<b>Second Half</b> (3.5 hours, 13:30-17:00)
 - Small groups for in-depth engagement with experiences along the canal;  
 - Discussion of each group's creations, outcomes and ways of collectively sharing the work. 
 
 -----
 <h3> First Half (09:00-12:00) </h3>
 
-- <b>Opening (15 minutes) </b> (Indoors)  
+- <b>Opening (10 minutes) </b> (Indoors)  
 	- General introduction of workshop’s aims and methodologies 
 	- Background of the River Lea and the Lee Navigation
 
-- <b>Organiser introductions (15 minutes)</b> (Indoors) 
+- <b>Organiser introductions (10 minutes)</b> (Indoors) 
 	- Organisers briefly introduce our positionalities, research interests, and listening approaches.  
 
 - <b>Participant presentations (20 minutes) </b>(Indoors) 
