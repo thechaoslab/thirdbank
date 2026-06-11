@@ -46,4 +46,6 @@ creativity, and innovation. All skill levels and backgrounds are welcome.
 * We will not film identifiable members of the public without their consent.
 
 
+<h2>Ethics</h2>
 
+This workshop has received ethical clearance from Loughborough University London's Ethics Committee under project ID 26019.
