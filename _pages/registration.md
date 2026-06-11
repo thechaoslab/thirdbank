@@ -19,6 +19,6 @@ The deadline to register is <b>19 June 23:59 Anywhere on Earth (AOE) time</b>. R
 
 We encourage all participants to familiarise themselves with our [[Code of Conduct]](https://thechaoslab.github.io/thirdbank/conduct/) prior to participation.
 
-<b>Participants must be registered for either the full NIME Conference or as a one-day Workshop Day registrant.</b> Both registrations include access to the full workshop day, coffee and snack breaks, and the Opening Reception on June 23. Please note that lunch is not included on the Workshop Day; we will organise our own outing or picnic lunch outside, weather depending.
+<b>Participants must be registered for either the full NIME Conference or as a one-day Workshop Day registrant.</b> Both registrations include access to the full workshop day, coffee and snack breaks, and the Opening Reception on June 23. Vegan lunch is now included on the Workshop Day; we will meet back at LUL for lunch or bring food for a picnic lunch outside, weather depending.
 
 More information on registering for the NIME Conference can be found here: [[NIME Registration]](https://nime2026.org/registration/)
