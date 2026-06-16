@@ -14,7 +14,7 @@ author_profile: false
 
 <h2>Projects in the Area</h2>
 
-* [Save Lea Marshes](https://www.saveleamarshes.org.uk/) — local campaign group working to keep the Lea marshes open, green and protected.
+* [Save Lea Marshes](https://www.saveleamarshes.org.uk/) — local campaign group working to keep the Lea marshes open for community use, preserve land and nature.
 
 <h2>Further Reading</h2>
 
