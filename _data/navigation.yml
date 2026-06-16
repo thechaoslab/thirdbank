@@ -18,5 +18,7 @@ main:
     url: /schedule/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Further Exploration"
+    url: /explore/
   # - title: "Sample Collections"
   #   url: /collection-archive/
